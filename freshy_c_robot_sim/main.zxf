@@ -1,0 +1,15 @@
+@27.5|-8|1|-0.2830958|28.64001|118.5|203|
+@27.5|-4|1|-0.1444416|27.78939|118.5|207|
+@27.5|0|1|0|27.5|118.5|211|
+@27.5|4|1|0.1444416|27.78939|118.5|215|
+@27.5|8|1|0.2830958|28.64001|118.5|219|
+@0|-16|0|-1.570796|16|91|195|
+@0|0|0|0|0|91|211|
+@0|16|0|1.570796|16|91|227|
+@0|0|0|0|0|0|0|
+@vis_point=True
+@color_point=255,0,0,255
+@robot_type=10
+@ground_name=C:\Users\RG123\Pictures\freshybot 2023_resized.png
+@trackline_filename=D:\Documents\Armmy2530\esp32robot-master\freshysim\main.trl
+@include_trackline=False
